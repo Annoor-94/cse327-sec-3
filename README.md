@@ -1,1 +1,1 @@
-# cse327-sec-3
+# Stadium Ticket Booking Management
